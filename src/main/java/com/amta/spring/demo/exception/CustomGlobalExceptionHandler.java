@@ -1,4 +1,4 @@
-package exception;
+package com.amta.spring.demo.exception;
 
 import java.io.IOException;
 import java.util.Date;
